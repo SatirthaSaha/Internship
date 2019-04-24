@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+ body {
+		  
+		  padding-top: 4.5rem;
+		}
+ .color-b{
+	 background-color: #1071a3;
+    color: #ffffff;
+ }
+ .link-color{
+	 color: #1071a3;
+ }
+ #AsID{
+ width:50%;}
+ 
+ #AsID6{
+ width:50%;}
+ #AsID5{
+ width:50%;}
+ #AsID4{
+ width:50%;}
+ #AsID3{
+ width:50%;}
+ #AsID2{
+ width:50%;}
+ #AsID1{
+ width:50%;}
+ /****footer**/
